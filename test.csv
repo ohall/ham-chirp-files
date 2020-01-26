@@ -1,0 +1,6 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,Rrescue,155.28,,0,Tone,233.6,88.5,88.5,NN,FM,5,,,,,,
+1,RfireEMSRescue,154.025,,0,Tone,107.2,88.5,88.5,NN,FM,5,,,,,,
+2,Rfireground,153.83,,0,Tone,123,88.5,88.5,NN,FM,5,,,,,,
+3,Rfireground,153.875,,0,Tone,173.8,88.5,88.5,NN,FM,5,,,,,,
+4,RfireOperations,154.175,,0,Tone,123,88.5,88.5,NN,FM,5,,,,,,
